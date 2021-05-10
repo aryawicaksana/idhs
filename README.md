@@ -27,7 +27,7 @@ For each label, '1' means yes (tweet includes that label), '0' mean no (tweet is
 
 ## Architecture
 
-![alt text](https://github.com/aryawicaksana/idhs/blob/archi.jpg?raw=true)
+![alt text](https://github.com/aryawicaksana/idhs/blob/archi.png?raw=true)
 
 ## Accuracy & Loss
 
