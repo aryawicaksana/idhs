@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/aryawicaksana/idhs.svg?branch=main)](https://travis-ci.com/aryawicaksana/idhs)
+
 # IdHS
 Indonesian HateSpeech Model
 
