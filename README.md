@@ -32,12 +32,12 @@ For each label, '1' means yes (tweet includes that label), '0' mean no (tweet is
 ## Accuracy & Loss
 
 ### Accuracy
-![alt text](https://github.com/aryawicaksana/idhs/blob/acc.png?raw=true)
+![alt text](https://github.com/aryawicaksana/idhs/blob/main/accuracy.png?raw=true)
 
 ### Loss
-![alt text](https://github.com/aryawicaksana/idhs/blob/loss.png?raw=true)
+![alt text](https://github.com/aryawicaksana/idhs/blob/main/loss.png?raw=true)
 
 
 ## Model
 
-[model.h5](https://github.com/aryawicaksana/abusivetext_best_model.h5)
+[model.h5](https://github.com/aryawicaksana/idhs/blob/main/abusivetext_best_model.h5)
